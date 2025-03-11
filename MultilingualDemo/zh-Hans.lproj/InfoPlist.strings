@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  MultilingualDemo
+
+  Created by Yuezhen Pan on 2025/3/11.
+  
+*/
+
+"NSCameraUsageDescription" = "需要相机访问权限";
+"CFBundleDisplayName" = "你好";
